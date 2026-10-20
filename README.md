@@ -1,3 +1,4 @@
+man mast m,agan 
 mast nazrom se allah bachaye 
 kya bat hai dosto
 
