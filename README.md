@@ -1,3 +1,7 @@
+mast nazrom se allah bachaye 
+
+
+
 # 🚨 DevOps Incident Agent
 
 > An open-source AI agent that automatically investigates DevOps incidents by analyzing metrics, logs, Kubernetes events, deployments, and CI/CD pipelines — then identifies root causes and recommends fixes.
